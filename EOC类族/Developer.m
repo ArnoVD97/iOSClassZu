@@ -9,6 +9,6 @@
 
 @implementation Developer
 - (void)factorWork {
-    NSLog(@"Developer");
+    NSLog(@"Developer子类调用");
 }
 @end
