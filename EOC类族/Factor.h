@@ -6,6 +6,9 @@
 //
 
 #import <Foundation/Foundation.h>
+@class Designer;
+@class Developer;
+@class Finance;
 
 typedef  NS_ENUM(NSUInteger, EmployeeType) {
     DeveloperType,
